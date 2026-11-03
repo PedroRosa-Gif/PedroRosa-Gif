@@ -1,7 +1,7 @@
 # Hi, I'm Pedro Rosa
 
-[![Linkedin Badge](https://img.shields.io/badge/-Paulo%20Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-lucas-rosa/)](https://www.linkedin.com/in/pedro-lucas-rosa/) 
-[![Gmail Badge](https://img.shields.io/badge/-paulovictorsantos0@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:pllrosa.go@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Rosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-lucas-rosa/)](https://www.linkedin.com/in/pedro-lucas-rosa/) 
+[![Gmail Badge](https://img.shields.io/badge/-pllrosa.go@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:pllrosa.go@gmail.com)
 
 **Software Engineer | AI**
 
