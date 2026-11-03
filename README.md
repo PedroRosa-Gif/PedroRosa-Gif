@@ -1,5 +1,8 @@
 # Hi, I'm Pedro Rosa
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEU-PERFIL/](https://www.linkedin.com/in/pedro-lucas-rosa/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pllrosa.go@gmail.com)
+
 **Software Engineer | AI**
 
 I'm a Software Engineer graduated from UNICAMP (University of Campinas), passionate about technology and software development, with a strong interest in Artificial Intelligence, particularly in Machine Learning, Generative AI, and AI-powered applications.
